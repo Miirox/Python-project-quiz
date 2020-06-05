@@ -8,6 +8,8 @@ from FinishButton import *
 from Stopwatch import *
 from EndWindow import *
 from GiveUp import *
+
+from tkinter import DISABLED
 from datetime import datetime
 import random
 
